@@ -1,0 +1,5 @@
+The following variables are not defined:
+simhour
+Home
+
+fname_out is probably a String.

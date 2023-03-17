@@ -1,0 +1,16 @@
+The code provided is Python 2 code.
+
+Running the code in a Python 2 environment the list returned from the function call is as expected a list of primes less than 100:
+
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+
+'pyscript_timing.py' shows a way to time the code in Python 2.
+
+Python 2 is no longer supported. Is the researcher sure they want to continue using Python 2?
+
+In order to run in Python 3 there are a number of changes that would need to be made.
+
+'pyscript_timing_python3.py' provides a Python 3 alternative. This is a refactor from scratch. The source code contains docstrings and is hopefully easy to understand.
+
+
+

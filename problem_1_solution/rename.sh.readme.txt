@@ -1,0 +1,10 @@
+1. Backup your files to another directory just in case.
+2. Download the script to the parent directory of where your files are.
+3. Open a terminal and change to the directory where your files are.
+4. Run the script:
+../rename.sh csv txt
+5. Check this has done what you want.
+
+Any problems, please let me know (a.g.d.turner@leeds.ac.uk).
+
+Thanks, Andy

@@ -1,3 +1,5 @@
+from time import clock
+
 def primes(n):
     if n==2:
         return [2]
@@ -21,4 +23,7 @@ def primes(n):
         m=2*i+3
     return [2]+[x for x in s if x]
 
+start = clock()
 primes(100)
+end = clock()
+print end-start
